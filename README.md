@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Orbital-dots/hyprddm/blob/master/Previews/hyprddm.png" />
+  <img src="https://github.com/Orbital-dots/hyprddm/blob/main/Previews/hyprddm.png" />
 </p>
 <p align="center">
 HyprDDM is a fork of the sddm-astronaut-theme by Keyitdev with new themes and YAD-based gui.
